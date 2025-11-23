@@ -23,3 +23,7 @@ Webhook simples em Flask que retorna a data e hora atuais no formato ISO 8601, c
 3. Envie este arquivo `.zip`
 4. Após o deploy, acesse:
    `https://seu-projeto.up.railway.app/get-datetime`
+
+## Autor
+Desenvolvido por **Wellington Lemos**
+Funder & CEO **Delta Call Agência de Automação de Venda com IA**
