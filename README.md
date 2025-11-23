@@ -12,7 +12,7 @@ Webhook simples em Flask que retorna a data e hora atuais no formato ISO 8601, c
 {
   "datetime": "2025-10-15T00:35:42-0300",
   "formatted": "15/10/2025 00:35:42",
-  "timezone": "America/Sao_Paulo",
+  "timezone": "America/New_York",
   "status": "success"
 }
 ```
